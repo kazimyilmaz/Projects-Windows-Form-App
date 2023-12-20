@@ -1,0 +1,15 @@
+C:\Users\MONSTER\Masaüstü\C# 25 project\SQL Derleyici (Windows Form)\SQL Derleyici (Windows Form)\bin\Debug\SQL Derleyici (Windows Form).exe.config
+C:\Users\MONSTER\Masaüstü\C# 25 project\SQL Derleyici (Windows Form)\SQL Derleyici (Windows Form)\bin\Debug\SQL Derleyici (Windows Form).exe
+C:\Users\MONSTER\Masaüstü\C# 25 project\SQL Derleyici (Windows Form)\SQL Derleyici (Windows Form)\bin\Debug\SQL Derleyici (Windows Form).pdb
+C:\Users\MONSTER\Masaüstü\C# 25 project\SQL Derleyici (Windows Form)\SQL Derleyici (Windows Form)\obj\Debug\SQL Derleyici (Windows Form).csproj.AssemblyReference.cache
+C:\Users\MONSTER\Masaüstü\C# 25 project\SQL Derleyici (Windows Form)\SQL Derleyici (Windows Form)\obj\Debug\SQL Derleyici (Windows Form).csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Masaüstü\C# 25 project\SQL Derleyici (Windows Form)\SQL Derleyici (Windows Form)\obj\Debug\SQL_Derleyici__Windows_Form_.Form1.resources
+C:\Users\MONSTER\Masaüstü\C# 25 project\SQL Derleyici (Windows Form)\SQL Derleyici (Windows Form)\obj\Debug\SQL_Derleyici__Windows_Form_.Properties.Resources.resources
+C:\Users\MONSTER\Masaüstü\C# 25 project\SQL Derleyici (Windows Form)\SQL Derleyici (Windows Form)\obj\Debug\SQL Derleyici (Windows Form).csproj.GenerateResource.cache
+C:\Users\MONSTER\Masaüstü\C# 25 project\SQL Derleyici (Windows Form)\SQL Derleyici (Windows Form)\obj\Debug\SQL Derleyici (Windows Form).csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Masaüstü\C# 25 project\SQL Derleyici (Windows Form)\SQL Derleyici (Windows Form)\obj\Debug\SQL Derleyici (Windows Form).exe
+C:\Users\MONSTER\Masaüstü\C# 25 project\SQL Derleyici (Windows Form)\SQL Derleyici (Windows Form)\obj\Debug\SQL Derleyici (Windows Form).pdb
+C:\Users\MONSTER\Masaüstü\C# 25 project\SQL Derleyici (Windows Form)\SQL Derleyici (Windows Form)\bin\Debug\SQL Derleyici (Windows Form).exe.manifest
+C:\Users\MONSTER\Masaüstü\C# 25 project\SQL Derleyici (Windows Form)\SQL Derleyici (Windows Form)\bin\Debug\SQL Derleyici (Windows Form).application
+C:\Users\MONSTER\Masaüstü\C# 25 project\SQL Derleyici (Windows Form)\SQL Derleyici (Windows Form)\obj\Debug\SQL Derleyici (Windows Form).exe.manifest
+C:\Users\MONSTER\Masaüstü\C# 25 project\SQL Derleyici (Windows Form)\SQL Derleyici (Windows Form)\obj\Debug\SQL Derleyici (Windows Form).application

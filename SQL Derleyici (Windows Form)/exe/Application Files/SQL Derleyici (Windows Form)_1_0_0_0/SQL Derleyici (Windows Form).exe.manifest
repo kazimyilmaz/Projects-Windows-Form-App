@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SQL Derleyici (Windows Form).exe" version="1.0.0.0" publicKeyToken="213eddb7438ea2b9" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SQL Derleyici (Windows Form)" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="SQL Derleyici (Windows Form).exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SQL Derleyici (Windows Form).exe" size="11736">
+      <assemblyIdentity name="SQL Derleyici (Windows Form)" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>235qLoparVMgnk84OrZwBi/lPbU0x4NFMbz8pa38O68=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="SQL Derleyici (Windows Form).exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MONSTER-HUMA\MONSTER" issuerKeyHash="40f0af67b41d8764528b82ebc201920d93da87ed" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>3DVnjDNaFAgKntAzxMUCzJTrhRKF+GyGMyt6eXCxwYA=</DigestValue></Reference></SignedInfo><SignatureValue>WHkjoMxOfHdIp2TE1cjhc6I0wdPQR0vHP+5VWMXsWiUO/GSZrmnRUmoF6KS4HqVGKA3Z0B5WmI7hBGxc3lqFYS2/ruJdC6mcu2xqPjaWqKtkqE1pu9qqYo9bdLA26ZGIqVdoFXAkHbaywf/6Hxt598Mz7l4RRdLB1LpEuYcRK68=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vhWibXPLHfAWhvKYLwG30wE9/XgLE/ZTp61MHDG1xDdzragG0grVo/RRs08Z3QZAX1e8lYhhBxdfER/j7qFugQOoUNKkFaynsBib2sc5oVcFBrr5bdGlSLfqTGl+Fp7dMhTuN0NRVeUa4CmpcOLwtTBRxwiGcK0XF0ddSSIky0k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="80c1b170797a2b33866cf8851285eb94cc02c5c433d09e0a08145a338c6735dc" Description="" Url=""><as:assemblyIdentity name="SQL Derleyici (Windows Form).exe" version="1.0.0.0" publicKeyToken="213eddb7438ea2b9" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MONSTER-HUMA\MONSTER</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>iG+RlHAQc0rN8t3UMgu7l+XlvONaz0KKIWZoIwgmUXc=</DigestValue></Reference></SignedInfo><SignatureValue>rG8T2homWabW60Da9eZngEVNuQs8JXP7WqQflQNQxJkafZpWHrY2vf7XO1SVQ71LyipjE6UMMI002kf/4Sc3/IBK24r8SyhUcm4Lefp2j6IwLsbo8iHVy66RL3oFXGCEcypoZ9u3kTz07fHsPfxCchQCunHpqMpe8hnSB0We90M=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vhWibXPLHfAWhvKYLwG30wE9/XgLE/ZTp61MHDG1xDdzragG0grVo/RRs08Z3QZAX1e8lYhhBxdfER/j7qFugQOoUNKkFaynsBib2sc5oVcFBrr5bdGlSLfqTGl+Fp7dMhTuN0NRVeUa4CmpcOLwtTBRxwiGcK0XF0ddSSIky0k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQeR1ta6ZkKrlOx6gdSDkL4zANBgkqhkiG9w0BAQsFADAzMTEwLwYDVQQDHigATQBPAE4AUwBUAEUAUgAtAEgAVQBNAEEAXABNAE8ATgBTAFQARQBSMB4XDTIzMTIxNTIyNTcwNFoXDTI0MTIxNTA0NTcwNFowMzExMC8GA1UEAx4oAE0ATwBOAFMAVABFAFIALQBIAFUATQBBAFwATQBPAE4AUwBUAEUAUjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvhWibXPLHfAWhvKYLwG30wE9/XgLE/ZTp61MHDG1xDdzragG0grVo/RRs08Z3QZAX1e8lYhhBxdfER/j7qFugQOoUNKkFaynsBib2sc5oVcFBrr5bdGlSLfqTGl+Fp7dMhTuN0NRVeUa4CmpcOLwtTBRxwiGcK0XF0ddSSIky0kCAwEAATANBgkqhkiG9w0BAQsFAAOBgQCEPo0TM+XpHoU8hD2wTnebougC2ACNREXDGZ37E32oC10C4dIuZkrDVFXvK1ImqmzajJPfujtvfsdpOev0/2aqhfplecFjsJzTtTWMYa0MO6LVrH8FVqFOOctRBvpKfBgWZojZ4ppbw/hnQPWz2pGGyJfwJq8jMttlsB/CNiO7Gg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
